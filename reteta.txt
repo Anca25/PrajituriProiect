@@ -1,0 +1,5 @@
+Briosa 10  1
+Savarina 15 1
+Amandina 16 1
+Ecler 7 0
+Dobos 8 1
